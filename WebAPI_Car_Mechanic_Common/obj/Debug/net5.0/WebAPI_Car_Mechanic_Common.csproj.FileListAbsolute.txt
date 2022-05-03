@@ -1,0 +1,12 @@
+D:\C# projects\WebAPI_Car_Mechanic\WebAPI_Car_Mechanic_Common\bin\Debug\net5.0\WebAPI_Car_Mechanic_Common.deps.json
+D:\C# projects\WebAPI_Car_Mechanic\WebAPI_Car_Mechanic_Common\bin\Debug\net5.0\WebAPI_Car_Mechanic_Common.dll
+D:\C# projects\WebAPI_Car_Mechanic\WebAPI_Car_Mechanic_Common\bin\Debug\net5.0\ref\WebAPI_Car_Mechanic_Common.dll
+D:\C# projects\WebAPI_Car_Mechanic\WebAPI_Car_Mechanic_Common\bin\Debug\net5.0\WebAPI_Car_Mechanic_Common.pdb
+D:\C# projects\WebAPI_Car_Mechanic\WebAPI_Car_Mechanic_Common\obj\Debug\net5.0\WebAPI_Car_Mechanic_Common.csproj.AssemblyReference.cache
+D:\C# projects\WebAPI_Car_Mechanic\WebAPI_Car_Mechanic_Common\obj\Debug\net5.0\WebAPI_Car_Mechanic_Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# projects\WebAPI_Car_Mechanic\WebAPI_Car_Mechanic_Common\obj\Debug\net5.0\WebAPI_Car_Mechanic_Common.AssemblyInfoInputs.cache
+D:\C# projects\WebAPI_Car_Mechanic\WebAPI_Car_Mechanic_Common\obj\Debug\net5.0\WebAPI_Car_Mechanic_Common.AssemblyInfo.cs
+D:\C# projects\WebAPI_Car_Mechanic\WebAPI_Car_Mechanic_Common\obj\Debug\net5.0\WebAPI_Car_Mechanic_Common.csproj.CoreCompileInputs.cache
+D:\C# projects\WebAPI_Car_Mechanic\WebAPI_Car_Mechanic_Common\obj\Debug\net5.0\WebAPI_Car_Mechanic_Common.dll
+D:\C# projects\WebAPI_Car_Mechanic\WebAPI_Car_Mechanic_Common\obj\Debug\net5.0\ref\WebAPI_Car_Mechanic_Common.dll
+D:\C# projects\WebAPI_Car_Mechanic\WebAPI_Car_Mechanic_Common\obj\Debug\net5.0\WebAPI_Car_Mechanic_Common.pdb
