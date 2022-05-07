@@ -16,7 +16,7 @@ namespace WebAPI_Car_Mechanic_Server
             CreateHostBuilder(args).Build().Run();
         }
 
-
+        //testing
         public static IHostBuilder CreateHostBuilder(string[] args) =>
             Host.CreateDefaultBuilder(args)
                 .ConfigureWebHostDefaults(webBuilder =>
