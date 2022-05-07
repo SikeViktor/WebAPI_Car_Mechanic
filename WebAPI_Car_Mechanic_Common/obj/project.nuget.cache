@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kQeoWfi7t60wNoIbYriMngy2WywNhuEx2XqGrkJJBTYu8Lhg2PUrJk8mpj1vmb9B7pV3D5qCMKy1z5OvJvtIDA==",
+  "dgSpecHash": "b9X5Z3iOEXBYS1zD3yeuFLSOsov0yANZytlD4YcXnSbJUnADAhf5fBoPIbUZ9Q5LUP7CINgUV1Ef7f2YNnGkAQ==",
   "success": true,
-  "projectFilePath": "D:\\C# projects\\WebAPI_Car_Mechanic\\WebAPI_Car_Mechanic_Common\\WebAPI_Car_Mechanic_Common.csproj",
+  "projectFilePath": "C:\\Users\\Sándor\\Documents\\GitHub\\WebAPI_Car_Mechanic\\WebAPI_Car_Mechanic_Common\\WebAPI_Car_Mechanic_Common.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
