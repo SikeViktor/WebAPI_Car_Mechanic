@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
@@ -20,11 +21,23 @@ namespace WebAPI_Car_Mechanic_Common.Models
         [Required]
         public string ProblemDescription { get; set; }
         public DateTime DateAndTime { get; set; }
+        public Status Status { get; set; }
+
 
         public override string ToString()
         {
             return $"{CustomerName} : {CarType}({CarPlateNumber}) - {DateAndTime.Date}.{DateAndTime.Hour}:{DateAndTime.Minute}";
         }
 
+    }
+
+    public enum Status
+    {
+        [Description("Felvett munka")]
+        FelvettMunka,
+        [Description("Elvégzés alatt")]
+        ElvegzesAlatt,
+        [Description("Befejezett")]
+        Befejezett
     }
 }
