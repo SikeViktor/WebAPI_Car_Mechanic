@@ -5813,19 +5813,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Sándor\\.nuget\\packages\\": {}
+    "C:\\Users\\Vityu\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sándor\\Documents\\GitHub\\WebAPI_Car_Mechanic\\WebAPI_Car_Mechanic_Server\\WebAPI_Car_Mechanic_Server.csproj",
+      "projectUniqueName": "d:\\C# projects\\WebAPI_Car_Mechanic\\WebAPI_Car_Mechanic_Server\\WebAPI_Car_Mechanic_Server.csproj",
       "projectName": "WebAPI_Car_Mechanic_Server",
-      "projectPath": "C:\\Users\\Sándor\\Documents\\GitHub\\WebAPI_Car_Mechanic\\WebAPI_Car_Mechanic_Server\\WebAPI_Car_Mechanic_Server.csproj",
-      "packagesPath": "C:\\Users\\Sándor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sándor\\Documents\\GitHub\\WebAPI_Car_Mechanic\\WebAPI_Car_Mechanic_Server\\obj\\",
+      "projectPath": "d:\\C# projects\\WebAPI_Car_Mechanic\\WebAPI_Car_Mechanic_Server\\WebAPI_Car_Mechanic_Server.csproj",
+      "packagesPath": "C:\\Users\\Vityu\\.nuget\\packages\\",
+      "outputPath": "d:\\C# projects\\WebAPI_Car_Mechanic\\WebAPI_Car_Mechanic_Server\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Sándor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Vityu\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5839,8 +5839,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Sándor\\Documents\\GitHub\\WebAPI_Car_Mechanic\\WebAPI_Car_Mechanic_Common\\WebAPI_Car_Mechanic_Common.csproj": {
-              "projectPath": "C:\\Users\\Sándor\\Documents\\GitHub\\WebAPI_Car_Mechanic\\WebAPI_Car_Mechanic_Common\\WebAPI_Car_Mechanic_Common.csproj"
+            "d:\\C# projects\\WebAPI_Car_Mechanic\\WebAPI_Car_Mechanic_Common\\WebAPI_Car_Mechanic_Common.csproj": {
+              "projectPath": "d:\\C# projects\\WebAPI_Car_Mechanic\\WebAPI_Car_Mechanic_Common\\WebAPI_Car_Mechanic_Common.csproj"
             }
           }
         }
@@ -5888,7 +5888,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
