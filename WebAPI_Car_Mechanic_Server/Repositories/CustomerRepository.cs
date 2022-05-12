@@ -43,9 +43,9 @@ namespace WebAPI_Car_Mechanic_Server.Repositories
         {
             using (var db = new CustomerContext())
             {
-                    db.Customers.Update(customer);
+                db.Customers.Update(customer);
 
-                    db.SaveChanges();  
+                db.SaveChanges();  
             }
         }
 

@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI_Car_Mechanic_Server", "WebAPI_Car_Mechanic_Server\WebAPI_Car_Mechanic_Server.csproj", "{B1A1A855-F01D-4AA5-AE3C-8C3710EB6621}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebAPI_Car_Mechanic_Server", "WebAPI_Car_Mechanic_Server\WebAPI_Car_Mechanic_Server.csproj", "{B1A1A855-F01D-4AA5-AE3C-8C3710EB6621}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI_Car_Mechanic_Common", "WebAPI_Car_Mechanic_Common\WebAPI_Car_Mechanic_Common.csproj", "{BC75169A-60EB-4897-BF45-1BFB1AD5CE8B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebAPI_Car_Mechanic_Common", "WebAPI_Car_Mechanic_Common\WebAPI_Car_Mechanic_Common.csproj", "{BC75169A-60EB-4897-BF45-1BFB1AD5CE8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI_Car_Mechanic_Office", "WebAPI_Car_Mechanic_Office\WebAPI_Car_Mechanic_Office.csproj", "{D17E3BF1-F093-49BD-9DAC-F2A5FB5CB271}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{BC75169A-60EB-4897-BF45-1BFB1AD5CE8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC75169A-60EB-4897-BF45-1BFB1AD5CE8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BC75169A-60EB-4897-BF45-1BFB1AD5CE8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D17E3BF1-F093-49BD-9DAC-F2A5FB5CB271}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D17E3BF1-F093-49BD-9DAC-F2A5FB5CB271}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D17E3BF1-F093-49BD-9DAC-F2A5FB5CB271}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D17E3BF1-F093-49BD-9DAC-F2A5FB5CB271}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

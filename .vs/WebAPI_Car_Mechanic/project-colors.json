@@ -15,7 +15,12 @@
       "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
       "DisplayName": "Miscellaneous Files",
       "ColorIndex": -1
+    },
+    "d17e3bf1-f093-49bd-9dac-f2a5fb5cb271": {
+      "ProjectGuid": "d17e3bf1-f093-49bd-9dac-f2a5fb5cb271",
+      "DisplayName": "WebAPI_Car_Mechanic_Office",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 3
 }

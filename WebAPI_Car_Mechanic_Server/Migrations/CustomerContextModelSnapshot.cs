@@ -45,8 +45,8 @@ namespace WebAPI_Car_Mechanic_Server.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<int>("Status")
-                        .HasColumnType("int");
+                    b.Property<string>("SelectedStatus")
+                        .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");
 

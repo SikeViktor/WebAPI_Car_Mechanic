@@ -32,15 +32,15 @@ namespace WebAPI_Car_Mechanic_Server.Controllers
         }
 
         [HttpPost]
-        public ActionResult Post([FromBody] Customer customer)
+        public ActionResult Post(Customer customer)
         {
             CustomerRepository.AddCustomer(customer);
 
             return Ok();
         }
 
-        [HttpPut]
-        public ActionResult Put([FromBody] Customer customer, long id)
+        [HttpPut("{id}")]
+        public ActionResult Put(Customer customer, long id)
         {
             var customerToUpdate = CustomerRepository.GetCustomer(id);
 
@@ -50,13 +50,13 @@ namespace WebAPI_Car_Mechanic_Server.Controllers
 
                 return Ok();
             }
-
+          
             return NotFound();
 
         }
 
         [HttpDelete("{id}")]
-        public ActionResult Delete(int id)
+        public ActionResult Delete(long id)
         {
             var customerToDelete = CustomerRepository.GetCustomer(id);
             

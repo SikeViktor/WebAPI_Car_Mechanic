@@ -20,24 +20,14 @@ namespace WebAPI_Car_Mechanic_Common.Models
         public string CarPlateNumber { get; set; }
         [Required]
         public string ProblemDescription { get; set; }
+        [Required]
         public DateTime DateAndTime { get; set; }
-        public Status Status { get; set; }
+        [Required]
+        public string SelectedStatus { get; set; }
 
-
-        public override string ToString()
-        {
-            return $"{CustomerName} : {CarType}({CarPlateNumber}) - {DateAndTime.Date}.{DateAndTime.Hour}:{DateAndTime.Minute}";
-        }
 
     }
 
-    public enum Status
-    {
-        [Description("Felvett munka")]
-        FelvettMunka,
-        [Description("Elvégzés alatt")]
-        ElvegzesAlatt,
-        [Description("Befejezett")]
-        Befejezett
-    }
+       
+
 }
