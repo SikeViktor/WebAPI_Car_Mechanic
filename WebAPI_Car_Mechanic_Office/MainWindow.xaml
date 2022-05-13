@@ -22,7 +22,7 @@
                 <DataGridTextColumn Header="Autó Típusa"  Binding="{Binding CarType}" IsReadOnly="True" CanUserSort="False"/>
                 <DataGridTextColumn Header="Rendszám"  Binding="{Binding CarPlateNumber}" IsReadOnly="True" CanUserSort="False"/>
                 <DataGridTextColumn Header="Probléma leírása" MinWidth="150" Binding="{Binding ProblemDescription}" IsReadOnly="True" Width="*" CanUserSort="False"/>
-                <DataGridTextColumn Header="Dátum" SortMemberPath="DateAndTime" Binding="{Binding DateAndTime}" IsReadOnly="True" CanUserSort="False"/>
+                <DataGridTextColumn Header="Dátum" SortMemberPath="DateAndTime" Binding="{Binding DateAndTime}" IsReadOnly="True" CanUserSort="True"/>
                 
             </DataGrid.Columns>
         </DataGrid>
