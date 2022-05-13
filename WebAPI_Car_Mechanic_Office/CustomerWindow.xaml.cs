@@ -65,7 +65,9 @@ namespace WebAPI_Car_Mechanic_Office
 
         private void CreateButton_Click(object sender, RoutedEventArgs e)
         {
-            if (ValidateCustomerName(CustomerNameTextBox.Text) && ValidateCustomers())
+            if (ValidateCustomerName(CustomerNameTextBox.Text) &&
+                ValidateCarTypeAndPlate(CarTypeTextBox.Text, CarPlateTextBox.Text) && 
+                ValidateCustomers())
             {
                 _customer.CustomerName = CustomerNameTextBox.Text;
                 _customer.CarType = CarTypeTextBox.Text;
@@ -84,7 +86,9 @@ namespace WebAPI_Car_Mechanic_Office
         private void UpdateButton_Click(object sender, RoutedEventArgs e)
         {
             
-            if (ValidateCustomerName(CustomerNameTextBox.Text) && ValidateCustomers())
+            if (ValidateCustomerName(CustomerNameTextBox.Text) && 
+                ValidateCarTypeAndPlate(CarTypeTextBox.Text, CarPlateTextBox.Text) && 
+                ValidateCustomers())
             {
                 
                 _customer.CustomerName = CustomerNameTextBox.Text;
@@ -114,18 +118,6 @@ namespace WebAPI_Car_Mechanic_Office
 
         private bool ValidateCustomers()
         {
-            if (string.IsNullOrEmpty(CarTypeTextBox.Text))
-            {
-                MessageBox.Show("Az autó típusa kötelező!");
-                return false;
-            }
-
-            if (string.IsNullOrEmpty(CarPlateTextBox.Text))
-            {
-                MessageBox.Show("Az autó rendszáma kötelező!");
-                return false;
-            }
-
             if (string.IsNullOrEmpty(DescriptionTextBox.Text))
             {
                 MessageBox.Show("A probléma leírása kötelező!");
@@ -150,9 +142,28 @@ namespace WebAPI_Car_Mechanic_Office
                 MessageBox.Show("Ügyfél neve kötelező!");
                 return false;
             }
-            else if (!rgx.IsMatch(customerName))
+            if (!rgx.IsMatch(customerName))
             {
                 MessageBox.Show("Ügyfél neve speciális karaktert nem tartalmazhat!");
+                return false;
+            }
+
+            return true;
+        }
+
+        public bool ValidateCarTypeAndPlate(string carType, string carPlate)
+        {
+            Regex rgx = new Regex("^[a-zA-Z0-9 ]*$");
+            Regex carPlatergx = new Regex("^[A-Z]{3}-[0-9]{3}$");
+
+            if (string.IsNullOrWhiteSpace(carType) || !rgx.IsMatch(carType))
+            {
+                MessageBox.Show("Autó típusa kötelező és speciális karaktert nem tartalmazhat!");
+                return false;
+            }
+            if (string.IsNullOrWhiteSpace(carPlate) || !carPlatergx.IsMatch(carPlate))
+            {
+                MessageBox.Show("Autó rendszáma kötelező és AAA-000 formátumú legyen!");
                 return false;
             }
 
