@@ -13,7 +13,7 @@ namespace WebAPI_Car_Mechanic_Server.Repositories
         {
             using (var db = new CustomerContext())
             {
-                var customers = db.Customers.ToList();
+                var customers = db.Customers.OrderBy(Customer => Customer.DateAndTime).ToList();
 
                 return customers;
             }
