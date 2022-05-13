@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
@@ -27,6 +28,7 @@ namespace WebAPI_Car_Mechanic_Office
         public CustomerWindow(Customer customer)
         {
             InitializeComponent();
+
 
             if (customer != null)
             {
@@ -63,7 +65,7 @@ namespace WebAPI_Car_Mechanic_Office
 
         private void CreateButton_Click(object sender, RoutedEventArgs e)
         {
-            if (ValidateCustomers())
+            if (ValidateCustomerName(CustomerNameTextBox.Text) && ValidateCustomers())
             {
                 _customer.CustomerName = CustomerNameTextBox.Text;
                 _customer.CarType = CarTypeTextBox.Text;
@@ -82,7 +84,7 @@ namespace WebAPI_Car_Mechanic_Office
         private void UpdateButton_Click(object sender, RoutedEventArgs e)
         {
             
-            if (ValidateCustomers())
+            if (ValidateCustomerName(CustomerNameTextBox.Text) && ValidateCustomers())
             {
                 
                 _customer.CustomerName = CustomerNameTextBox.Text;
@@ -112,12 +114,6 @@ namespace WebAPI_Car_Mechanic_Office
 
         private bool ValidateCustomers()
         {
-            if (string.IsNullOrEmpty(CustomerNameTextBox.Text))
-            {
-                MessageBox.Show("Ügyfél neve kötelező!");
-                return false;
-            }
-
             if (string.IsNullOrEmpty(CarTypeTextBox.Text))
             {
                 MessageBox.Show("Az autó típusa kötelező!");
@@ -139,6 +135,24 @@ namespace WebAPI_Car_Mechanic_Office
             if (!DatePicker.SelectedDate.HasValue)
             {
                 MessageBox.Show("Dátum megadása kötelező!");
+                return false;
+            }
+
+            return true;
+        }
+        
+        public bool ValidateCustomerName(string customerName)
+        {
+            Regex rgx = new Regex("^[a-záéíóöőúüűA-ZÁÉÍÓÖŐÚÜŰ0-9 ]*$");
+
+            if (string.IsNullOrWhiteSpace(customerName))
+            {
+                MessageBox.Show("Ügyfél neve kötelező!");
+                return false;
+            }
+            else if (!rgx.IsMatch(customerName))
+            {
+                MessageBox.Show("Ügyfél neve speciális karaktert nem tartalmazhat!");
                 return false;
             }
 

@@ -20,7 +20,17 @@
       "ProjectGuid": "d17e3bf1-f093-49bd-9dac-f2a5fb5cb271",
       "DisplayName": "WebAPI_Car_Mechanic_Office",
       "ColorIndex": 2
+    },
+    "24b3a502-54bf-49ac-b818-51b78645f3f2": {
+      "ProjectGuid": "24b3a502-54bf-49ac-b818-51b78645f3f2",
+      "DisplayName": "WebAPI_Car_Mechanic_Office_Tests",
+      "ColorIndex": 3
+    },
+    "b8bf3a1a-2f4e-4a19-b113-6bbf73cf7903": {
+      "ProjectGuid": "b8bf3a1a-2f4e-4a19-b113-6bbf73cf7903",
+      "DisplayName": "WebAPI_Car_Mechanic_Office.Tests",
+      "ColorIndex": 4
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 5
 }

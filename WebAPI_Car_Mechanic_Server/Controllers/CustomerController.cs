@@ -32,7 +32,7 @@ namespace WebAPI_Car_Mechanic_Server.Controllers
         }
 
         [HttpPost]
-        public ActionResult Post(Customer customer)
+        public ActionResult Post([FromBody] Customer customer)
         {
             CustomerRepository.AddCustomer(customer);
 
@@ -40,7 +40,7 @@ namespace WebAPI_Car_Mechanic_Server.Controllers
         }
 
         [HttpPut("{id}")]
-        public ActionResult Put(Customer customer, long id)
+        public ActionResult Put([FromBody] Customer customer, long id)
         {
             var customerToUpdate = CustomerRepository.GetCustomer(id);
 
