@@ -18,7 +18,7 @@ namespace WebAPI_Car_Mechanic_Office.Tests
             {
                 return false;
             }
-            else if (!rgx.IsMatch(customerName))
+            if (!rgx.IsMatch(customerName))
             {
                 return false;
             }
