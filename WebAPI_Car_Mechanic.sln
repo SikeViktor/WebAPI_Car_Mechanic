@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebAPI_Car_Mechanic_Server"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebAPI_Car_Mechanic_Common", "WebAPI_Car_Mechanic_Common\WebAPI_Car_Mechanic_Common.csproj", "{BC75169A-60EB-4897-BF45-1BFB1AD5CE8B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI_Car_Mechanic_Office", "WebAPI_Car_Mechanic_Office\WebAPI_Car_Mechanic_Office.csproj", "{D17E3BF1-F093-49BD-9DAC-F2A5FB5CB271}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebAPI_Car_Mechanic_Office", "WebAPI_Car_Mechanic_Office\WebAPI_Car_Mechanic_Office.csproj", "{D17E3BF1-F093-49BD-9DAC-F2A5FB5CB271}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI_Car_Mechanic_Office.Tests", "WebAPI_Car_Mechanic_Office.Tests\WebAPI_Car_Mechanic_Office.Tests.csproj", "{B8BF3A1A-2F4E-4A19-B113-6BBF73CF7903}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{D17E3BF1-F093-49BD-9DAC-F2A5FB5CB271}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D17E3BF1-F093-49BD-9DAC-F2A5FB5CB271}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D17E3BF1-F093-49BD-9DAC-F2A5FB5CB271}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8BF3A1A-2F4E-4A19-B113-6BBF73CF7903}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8BF3A1A-2F4E-4A19-B113-6BBF73CF7903}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8BF3A1A-2F4E-4A19-B113-6BBF73CF7903}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8BF3A1A-2F4E-4A19-B113-6BBF73CF7903}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -25,9 +25,6 @@ namespace WebAPI_Car_Mechanic_Common.Models
         [Required]
         public string SelectedStatus { get; set; }
 
-
     }
-
-       
 
 }
