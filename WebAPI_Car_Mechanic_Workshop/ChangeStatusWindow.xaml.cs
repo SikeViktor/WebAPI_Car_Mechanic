@@ -42,15 +42,14 @@ namespace WebAPI_Car_Mechanic_Workshop
             if (NewStatusComboBox.Text != "")
             { 
                 _customer.SelectedStatus = NewStatusComboBox.Text;
+                CustomerDataProvider.UpdateCustomer(_customer, _customer.Id);
+                DialogResult = true;
+                Close();
             }
             else
             {
                 MessageBox.Show("Válassz munka állapotot!");
             }
-            CustomerDataProvider.UpdateCustomer(_customer, _customer.Id);
-            
-            DialogResult = true;
-            //Close();
         }
     }
 }

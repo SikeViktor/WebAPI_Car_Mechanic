@@ -27,10 +27,10 @@
                 <RowDefinition Height="auto"/>
             </Grid.RowDefinitions>
 
-            
+
             <Label Grid.Column="0" Grid.Row="0" Content="Ügyfél neve" Margin="10"/>
             <Label x:Name="CustomerName" Content="{Binding CustomerName}" Grid.Column="1" Grid.Row="0" Margin="10"/>
-            
+
             <Label Grid.Column="0" Grid.Row="1" Content="Autó Típusa" Margin="10"/>
             <Label x:Name="CarType" Content="{Binding CarType}" Grid.Column="1" Grid.Row="1" Margin="10"/>
 
@@ -50,6 +50,7 @@
             <Label x:Name="DateAndTime" Content ="{Binding DateAndTime}" Grid.Column="1" Grid.Row="6" Margin="10"/>
 
         </Grid>
+        
         <StackPanel Grid.Row="1" Orientation="Horizontal" VerticalAlignment="Bottom" HorizontalAlignment="Center">
             <Button x:Name="UpdateButton" Content="Update" Width="80" Margin="15" Click="UpdateButton_Click"/>
         </StackPanel>
