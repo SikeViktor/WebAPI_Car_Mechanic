@@ -5813,7 +5813,12 @@
     ]
   },
   "packageFolders": {
+<<<<<<< Updated upstream
     "C:\\Users\\Sándor\\.nuget\\packages\\": {}
+=======
+    "C:\\Users\\Sándor\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+>>>>>>> Stashed changes
   },
   "project": {
     "version": "1.0.0",
@@ -5824,8 +5829,15 @@
       "packagesPath": "C:\\Users\\Sándor\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Sándor\\Documents\\GitHub\\WebAPI_Car_Mechanic\\WebAPI_Car_Mechanic_Server\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\Sándor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+<<<<<<< Updated upstream
+=======
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+>>>>>>> Stashed changes
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5888,7 +5900,11 @@
             "privateAssets": "all"
           }
         },
+<<<<<<< Updated upstream
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
+=======
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+>>>>>>> Stashed changes
       }
     }
   }
