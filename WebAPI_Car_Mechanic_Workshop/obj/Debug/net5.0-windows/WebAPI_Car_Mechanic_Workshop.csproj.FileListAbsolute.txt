@@ -26,3 +26,31 @@ C:\Users\Sándor\Documents\GitHub\WebAPI_Car_Mechanic\WebAPI_Car_Mechanic_Worksh
 C:\Users\Sándor\Documents\GitHub\WebAPI_Car_Mechanic\WebAPI_Car_Mechanic_Workshop\bin\Debug\net5.0-windows\WebAPI_Car_Mechanic_Common.dll
 C:\Users\Sándor\Documents\GitHub\WebAPI_Car_Mechanic\WebAPI_Car_Mechanic_Workshop\bin\Debug\net5.0-windows\WebAPI_Car_Mechanic_Common.pdb
 C:\Users\Sándor\Documents\GitHub\WebAPI_Car_Mechanic\WebAPI_Car_Mechanic_Workshop\obj\Debug\net5.0-windows\WebAPI_Car_Mechanic_Workshop.csproj.CopyComplete
+d:\C# projects\WebAPI_Car_Mechanic\WebAPI_Car_Mechanic_Workshop\bin\Debug\net5.0-windows\WebAPI_Car_Mechanic_Workshop.exe
+d:\C# projects\WebAPI_Car_Mechanic\WebAPI_Car_Mechanic_Workshop\bin\Debug\net5.0-windows\WebAPI_Car_Mechanic_Workshop.deps.json
+d:\C# projects\WebAPI_Car_Mechanic\WebAPI_Car_Mechanic_Workshop\bin\Debug\net5.0-windows\WebAPI_Car_Mechanic_Workshop.runtimeconfig.json
+d:\C# projects\WebAPI_Car_Mechanic\WebAPI_Car_Mechanic_Workshop\bin\Debug\net5.0-windows\WebAPI_Car_Mechanic_Workshop.runtimeconfig.dev.json
+d:\C# projects\WebAPI_Car_Mechanic\WebAPI_Car_Mechanic_Workshop\bin\Debug\net5.0-windows\WebAPI_Car_Mechanic_Workshop.dll
+d:\C# projects\WebAPI_Car_Mechanic\WebAPI_Car_Mechanic_Workshop\bin\Debug\net5.0-windows\ref\WebAPI_Car_Mechanic_Workshop.dll
+d:\C# projects\WebAPI_Car_Mechanic\WebAPI_Car_Mechanic_Workshop\bin\Debug\net5.0-windows\WebAPI_Car_Mechanic_Workshop.pdb
+d:\C# projects\WebAPI_Car_Mechanic\WebAPI_Car_Mechanic_Workshop\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+d:\C# projects\WebAPI_Car_Mechanic\WebAPI_Car_Mechanic_Workshop\bin\Debug\net5.0-windows\WebAPI_Car_Mechanic_Common.dll
+d:\C# projects\WebAPI_Car_Mechanic\WebAPI_Car_Mechanic_Workshop\bin\Debug\net5.0-windows\WebAPI_Car_Mechanic_Common.pdb
+d:\C# projects\WebAPI_Car_Mechanic\WebAPI_Car_Mechanic_Workshop\obj\Debug\net5.0-windows\WebAPI_Car_Mechanic_Workshop.csproj.AssemblyReference.cache
+d:\C# projects\WebAPI_Car_Mechanic\WebAPI_Car_Mechanic_Workshop\obj\Debug\net5.0-windows\ChangeStatusWindow.g.cs
+d:\C# projects\WebAPI_Car_Mechanic\WebAPI_Car_Mechanic_Workshop\obj\Debug\net5.0-windows\MainWindow.g.cs
+d:\C# projects\WebAPI_Car_Mechanic\WebAPI_Car_Mechanic_Workshop\obj\Debug\net5.0-windows\App.g.cs
+d:\C# projects\WebAPI_Car_Mechanic\WebAPI_Car_Mechanic_Workshop\obj\Debug\net5.0-windows\WebAPI_Car_Mechanic_Workshop_MarkupCompile.cache
+d:\C# projects\WebAPI_Car_Mechanic\WebAPI_Car_Mechanic_Workshop\obj\Debug\net5.0-windows\WebAPI_Car_Mechanic_Workshop_MarkupCompile.lref
+d:\C# projects\WebAPI_Car_Mechanic\WebAPI_Car_Mechanic_Workshop\obj\Debug\net5.0-windows\ChangeStatusWindow.baml
+d:\C# projects\WebAPI_Car_Mechanic\WebAPI_Car_Mechanic_Workshop\obj\Debug\net5.0-windows\MainWindow.baml
+d:\C# projects\WebAPI_Car_Mechanic\WebAPI_Car_Mechanic_Workshop\obj\Debug\net5.0-windows\WebAPI_Car_Mechanic_Workshop.g.resources
+d:\C# projects\WebAPI_Car_Mechanic\WebAPI_Car_Mechanic_Workshop\obj\Debug\net5.0-windows\WebAPI_Car_Mechanic_Workshop.GeneratedMSBuildEditorConfig.editorconfig
+d:\C# projects\WebAPI_Car_Mechanic\WebAPI_Car_Mechanic_Workshop\obj\Debug\net5.0-windows\WebAPI_Car_Mechanic_Workshop.AssemblyInfoInputs.cache
+d:\C# projects\WebAPI_Car_Mechanic\WebAPI_Car_Mechanic_Workshop\obj\Debug\net5.0-windows\WebAPI_Car_Mechanic_Workshop.AssemblyInfo.cs
+d:\C# projects\WebAPI_Car_Mechanic\WebAPI_Car_Mechanic_Workshop\obj\Debug\net5.0-windows\WebAPI_Car_Mechanic_Workshop.csproj.CoreCompileInputs.cache
+d:\C# projects\WebAPI_Car_Mechanic\WebAPI_Car_Mechanic_Workshop\obj\Debug\net5.0-windows\WebAPI_Car_Mechanic_Workshop.csproj.CopyComplete
+d:\C# projects\WebAPI_Car_Mechanic\WebAPI_Car_Mechanic_Workshop\obj\Debug\net5.0-windows\WebAPI_Car_Mechanic_Workshop.dll
+d:\C# projects\WebAPI_Car_Mechanic\WebAPI_Car_Mechanic_Workshop\obj\Debug\net5.0-windows\ref\WebAPI_Car_Mechanic_Workshop.dll
+d:\C# projects\WebAPI_Car_Mechanic\WebAPI_Car_Mechanic_Workshop\obj\Debug\net5.0-windows\WebAPI_Car_Mechanic_Workshop.pdb
+d:\C# projects\WebAPI_Car_Mechanic\WebAPI_Car_Mechanic_Workshop\obj\Debug\net5.0-windows\WebAPI_Car_Mechanic_Workshop.genruntimeconfig.cache

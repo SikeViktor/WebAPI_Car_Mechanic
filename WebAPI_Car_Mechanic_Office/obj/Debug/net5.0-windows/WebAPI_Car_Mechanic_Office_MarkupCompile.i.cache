@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\C# projects\WebAPI_Car_Mechanic\WebAPI_Car_Mechanic_Office\obj\Debug\net5.0-windows\
+d:\C# projects\WebAPI_Car_Mechanic\WebAPI_Car_Mechanic_Office\obj\Debug\net5.0-windows\
 WebAPI_Car_Mechanic_Office
 none
 false
 TRACE;DEBUG;NET;NET5_0;NETCOREAPP
-D:\C# projects\WebAPI_Car_Mechanic\WebAPI_Car_Mechanic_Office\App.xaml
+d:\C# projects\WebAPI_Car_Mechanic\WebAPI_Car_Mechanic_Office\App.xaml
 21887490602
 
 6903182841
-195620298737
+195-1089513336
 CustomerWindow.xaml;MainWindow.xaml;
 
-True
+False
 
