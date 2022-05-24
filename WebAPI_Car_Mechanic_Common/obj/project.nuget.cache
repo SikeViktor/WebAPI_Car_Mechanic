@@ -2,6 +2,7 @@
   "version": 2,
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   "dgSpecHash": "b9X5Z3iOEXBYS1zD3yeuFLSOsov0yANZytlD4YcXnSbJUnADAhf5fBoPIbUZ9Q5LUP7CINgUV1Ef7f2YNnGkAQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Sándor\\Documents\\GitHub\\WebAPI_Car_Mechanic\\WebAPI_Car_Mechanic_Common\\WebAPI_Car_Mechanic_Common.csproj",
@@ -10,6 +11,11 @@
   "dgSpecHash": "GGe3M8VaO30ROk7Lw/nnfbGO5xjDyPd7kl9hmLc4JbpOKcGIzqGxgq8a+gnCAXbPGcO2OLvJJh+j+OiCfZ/r+w==",
   "success": true,
   "projectFilePath": "C:\\Users\\Sándor\\Documents\\GitHub\\WebAPI_Car_Mechanic\\WebAPI_Car_Mechanic_Common\\WebAPI_Car_Mechanic_Common.csproj",
+=======
+  "dgSpecHash": "GGe3M8VaO30ROk7Lw/nnfbGO5xjDyPd7kl9hmLc4JbpOKcGIzqGxgq8a+gnCAXbPGcO2OLvJJh+j+OiCfZ/r+w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sándor\\Documents\\GitHub\\WebAPI_Car_Mechanic\\WebAPI_Car_Mechanic_Common\\WebAPI_Car_Mechanic_Common.csproj",
+>>>>>>> Stashed changes
 =======
   "dgSpecHash": "GGe3M8VaO30ROk7Lw/nnfbGO5xjDyPd7kl9hmLc4JbpOKcGIzqGxgq8a+gnCAXbPGcO2OLvJJh+j+OiCfZ/r+w==",
   "success": true,

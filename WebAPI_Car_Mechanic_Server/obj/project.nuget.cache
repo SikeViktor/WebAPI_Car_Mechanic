@@ -2,7 +2,11 @@
   "version": 2,
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   "dgSpecHash": "NP3uibw61mJq37VFRL1t70fCNXHahuSZWlfp8cIuFyDK2v1w5w4WZ/7Maw3QjBurFbc4Yju1MjP4PvIFdumX8w==",
+=======
+  "dgSpecHash": "+VsXpxyfnmjaM9a+NqLYsq3aMRVDNHMkTLSi7o/1T6yL3bWoIO+zrhDGmnb2InEzFaD6WJTFN8s1Q32mVBV31w==",
+>>>>>>> Stashed changes
 =======
   "dgSpecHash": "+VsXpxyfnmjaM9a+NqLYsq3aMRVDNHMkTLSi7o/1T6yL3bWoIO+zrhDGmnb2InEzFaD6WJTFN8s1Q32mVBV31w==",
 >>>>>>> Stashed changes
@@ -44,7 +48,11 @@
     "C:\\Users\\Sándor\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     "C:\\Users\\Sándor\\.nuget\\packages\\newtonsoft.json\\10.0.1\\newtonsoft.json.10.0.1.nupkg.sha512",
+=======
+    "C:\\Users\\Sándor\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+>>>>>>> Stashed changes
 =======
     "C:\\Users\\Sándor\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
 >>>>>>> Stashed changes
@@ -69,7 +77,10 @@
     "C:\\Users\\Sándor\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512",
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     "C:\\Users\\Sándor\\.nuget\\packages\\system.dynamic.runtime\\4.3.0\\system.dynamic.runtime.4.3.0.nupkg.sha512",
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
@@ -83,10 +94,15 @@
     "C:\\Users\\Sándor\\.nuget\\packages\\system.linq\\4.3.0\\system.linq.4.3.0.nupkg.sha512",
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     "C:\\Users\\Sándor\\.nuget\\packages\\system.linq.expressions\\4.3.0\\system.linq.expressions.4.3.0.nupkg.sha512",
     "C:\\Users\\Sándor\\.nuget\\packages\\system.net.nameresolution\\4.3.0\\system.net.nameresolution.4.3.0.nupkg.sha512",
     "C:\\Users\\Sándor\\.nuget\\packages\\system.net.primitives\\4.3.0\\system.net.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\Sándor\\.nuget\\packages\\system.objectmodel\\4.3.0\\system.objectmodel.4.3.0.nupkg.sha512",
+=======
+    "C:\\Users\\Sándor\\.nuget\\packages\\system.net.nameresolution\\4.3.0\\system.net.nameresolution.4.3.0.nupkg.sha512",
+    "C:\\Users\\Sándor\\.nuget\\packages\\system.net.primitives\\4.3.0\\system.net.primitives.4.3.0.nupkg.sha512",
+>>>>>>> Stashed changes
 =======
     "C:\\Users\\Sándor\\.nuget\\packages\\system.net.nameresolution\\4.3.0\\system.net.nameresolution.4.3.0.nupkg.sha512",
     "C:\\Users\\Sándor\\.nuget\\packages\\system.net.primitives\\4.3.0\\system.net.primitives.4.3.0.nupkg.sha512",
@@ -112,7 +128,10 @@
     "C:\\Users\\Sándor\\.nuget\\packages\\system.runtime.interopservices\\4.3.0\\system.runtime.interopservices.4.3.0.nupkg.sha512",
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     "C:\\Users\\Sándor\\.nuget\\packages\\system.runtime.numerics\\4.3.0\\system.runtime.numerics.4.3.0.nupkg.sha512",
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
