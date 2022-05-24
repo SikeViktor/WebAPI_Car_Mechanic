@@ -23,7 +23,7 @@ namespace WebAPI_Car_Mechanic_Office
     public partial class CustomerWindow : Window
     {
         private Customer _customer;
-        private IList<string> Status = new List<string>() { "Felvett munka", "Elvégzés alatt", "Befejezett" };
+        private IList<string> _Status = new List<string>() { "Felvett munka", "Elvégzés alatt", "Befejezett" };
 
         public CustomerWindow(Customer customer)
         {
@@ -39,7 +39,7 @@ namespace WebAPI_Car_Mechanic_Office
                 CarPlateTextBox.Text = _customer.CarPlateNumber;
                 DescriptionTextBox.Text = _customer.ProblemDescription;
 
-                StatusComboBox.ItemsSource = Status;
+                StatusComboBox.ItemsSource = _Status;
                 StatusComboBox.SelectedItem = _customer.SelectedStatus;
 
                 DatePicker.SelectedDate = _customer.DateAndTime;
@@ -52,8 +52,8 @@ namespace WebAPI_Car_Mechanic_Office
             {
                 _customer = new Customer();
 
-                StatusComboBox.SelectedItem = Status[0];
-                StatusComboBox.ItemsSource = Status;
+                StatusComboBox.SelectedItem = _Status[0];
+                StatusComboBox.ItemsSource = _Status;
                 //DatePicker.SelectedDate = DateTime.Now;
 
                 CreateButton.Visibility = Visibility.Visible;
@@ -73,7 +73,7 @@ namespace WebAPI_Car_Mechanic_Office
                 _customer.CarType = CarTypeTextBox.Text;
                 _customer.CarPlateNumber = CarPlateTextBox.Text;
                 _customer.ProblemDescription = DescriptionTextBox.Text;
-                _customer.SelectedStatus = Status[0];
+                _customer.SelectedStatus = _Status[0];
                 _customer.DateAndTime = DatePicker.SelectedDate.Value;
 
                 CustomerDataProvider.CreateCustomer(_customer);

@@ -22,7 +22,7 @@ namespace WebAPI_Car_Mechanic_Workshop
     public partial class ChangeStatusWindow : Window
     {
         private Customer _customer;
-        private IList<string> Status = new List<string>() { "Felvett munka", "Elvégzés alatt", "Befejezett" };
+        private IList<string> _Status = new List<string>() { "Felvett munka", "Elvégzés alatt", "Befejezett" };
         public ChangeStatusWindow(Customer customer)
         {
             this._customer = customer;
@@ -31,10 +31,10 @@ namespace WebAPI_Car_Mechanic_Workshop
             CustomerName.Content = customer.CustomerName;
             CarType.Content = customer.CarType;
             CarPlateNumber.Content = customer.CarPlateNumber;
-            ProblemDescription.Content = customer.ProblemDescription;
+            ProblemDescription.Text = customer.ProblemDescription;
             CarStatus.Content = customer.SelectedStatus;
-            NewStatusComboBox.ItemsSource = Status;
-            DateAndTime.Content = customer.DateAndTime;
+            NewStatusComboBox.ItemsSource = _Status;
+            DateAndTime.Content = $"{customer.DateAndTime.Year}.{customer.DateAndTime.Month}.{customer.DateAndTime.Day}.";
         }
         
         private void UpdateButton_Click(object sender, RoutedEventArgs e)
