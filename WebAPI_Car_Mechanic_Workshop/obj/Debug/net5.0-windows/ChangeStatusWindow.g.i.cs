@@ -117,7 +117,7 @@ namespace WebAPI_Car_Mechanic_Workshop {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/WebAPI_Car_Mechanic_Workshop;component/changestatuswindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/WebAPI_Car_Mechanic_Workshop;V1.0.0.0;component/changestatuswindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\ChangeStatusWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

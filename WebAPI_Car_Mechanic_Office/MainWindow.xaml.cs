@@ -48,9 +48,10 @@ namespace WebAPI_Car_Mechanic_Office
                 {
                     UpdateCustomerDataGrid();
                 }
-
+                
                 CustomerDataGrid.UnselectAll();
             }
+            
         }
 
         private void UpdateCustomerDataGrid()

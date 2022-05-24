@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "X85s0nTEONvuNWuk4Xg/+7UEqYRdmYmCyEId5Vbp7uLYpRKykifYLrfoykbpHvg19QzPOyHCuzqL2XUuum92mQ==",
+  "dgSpecHash": "i6Yw87o0ZjLUxbESJh6g5E2BlVNYq7TuFiunDNUtGrbGJT/CxMiMPVGfwAoHn7B1G2St3+vVxjD71sCrEfyWoQ==",
   "success": true,
-  "projectFilePath": "d:\\C# projects\\WebAPI_Car_Mechanic\\WebAPI_Car_Mechanic_Workshop\\WebAPI_Car_Mechanic_Workshop.csproj",
+  "projectFilePath": "D:\\C# projects\\WebAPI_Car_Mechanic\\WebAPI_Car_Mechanic_Workshop\\WebAPI_Car_Mechanic_Workshop.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Vityu\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],

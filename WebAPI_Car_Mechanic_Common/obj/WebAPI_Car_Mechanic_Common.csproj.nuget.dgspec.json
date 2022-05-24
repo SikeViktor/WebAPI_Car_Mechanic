@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\C# projects\\WebAPI_Car_Mechanic\\WebAPI_Car_Mechanic_Common\\WebAPI_Car_Mechanic_Common.csproj": {}
+    "D:\\C# projects\\WebAPI_Car_Mechanic\\WebAPI_Car_Mechanic_Common\\WebAPI_Car_Mechanic_Common.csproj": {}
   },
   "projects": {
-    "d:\\C# projects\\WebAPI_Car_Mechanic\\WebAPI_Car_Mechanic_Common\\WebAPI_Car_Mechanic_Common.csproj": {
+    "D:\\C# projects\\WebAPI_Car_Mechanic\\WebAPI_Car_Mechanic_Common\\WebAPI_Car_Mechanic_Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\C# projects\\WebAPI_Car_Mechanic\\WebAPI_Car_Mechanic_Common\\WebAPI_Car_Mechanic_Common.csproj",
+        "projectUniqueName": "D:\\C# projects\\WebAPI_Car_Mechanic\\WebAPI_Car_Mechanic_Common\\WebAPI_Car_Mechanic_Common.csproj",
         "projectName": "WebAPI_Car_Mechanic_Common",
-        "projectPath": "d:\\C# projects\\WebAPI_Car_Mechanic\\WebAPI_Car_Mechanic_Common\\WebAPI_Car_Mechanic_Common.csproj",
+        "projectPath": "D:\\C# projects\\WebAPI_Car_Mechanic\\WebAPI_Car_Mechanic_Common\\WebAPI_Car_Mechanic_Common.csproj",
         "packagesPath": "C:\\Users\\Vityu\\.nuget\\packages\\",
-        "outputPath": "d:\\C# projects\\WebAPI_Car_Mechanic\\WebAPI_Car_Mechanic_Common\\obj\\",
+        "outputPath": "D:\\C# projects\\WebAPI_Car_Mechanic\\WebAPI_Car_Mechanic_Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Vityu\\AppData\\Roaming\\NuGet\\NuGet.Config",

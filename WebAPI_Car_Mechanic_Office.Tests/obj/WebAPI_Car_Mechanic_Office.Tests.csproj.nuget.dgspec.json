@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\C# projects\\WebAPI_Car_Mechanic\\WebAPI_Car_Mechanic_Office.Tests\\WebAPI_Car_Mechanic_Office.Tests.csproj": {}
+    "D:\\C# projects\\WebAPI_Car_Mechanic\\WebAPI_Car_Mechanic_Office.Tests\\WebAPI_Car_Mechanic_Office.Tests.csproj": {}
   },
   "projects": {
-    "d:\\C# projects\\WebAPI_Car_Mechanic\\WebAPI_Car_Mechanic_Common\\WebAPI_Car_Mechanic_Common.csproj": {
+    "D:\\C# projects\\WebAPI_Car_Mechanic\\WebAPI_Car_Mechanic_Common\\WebAPI_Car_Mechanic_Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\C# projects\\WebAPI_Car_Mechanic\\WebAPI_Car_Mechanic_Common\\WebAPI_Car_Mechanic_Common.csproj",
+        "projectUniqueName": "D:\\C# projects\\WebAPI_Car_Mechanic\\WebAPI_Car_Mechanic_Common\\WebAPI_Car_Mechanic_Common.csproj",
         "projectName": "WebAPI_Car_Mechanic_Common",
-        "projectPath": "d:\\C# projects\\WebAPI_Car_Mechanic\\WebAPI_Car_Mechanic_Common\\WebAPI_Car_Mechanic_Common.csproj",
+        "projectPath": "D:\\C# projects\\WebAPI_Car_Mechanic\\WebAPI_Car_Mechanic_Common\\WebAPI_Car_Mechanic_Common.csproj",
         "packagesPath": "C:\\Users\\Vityu\\.nuget\\packages\\",
-        "outputPath": "d:\\C# projects\\WebAPI_Car_Mechanic\\WebAPI_Car_Mechanic_Common\\obj\\",
+        "outputPath": "D:\\C# projects\\WebAPI_Car_Mechanic\\WebAPI_Car_Mechanic_Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Vityu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -64,14 +64,14 @@
         }
       }
     },
-    "d:\\C# projects\\WebAPI_Car_Mechanic\\WebAPI_Car_Mechanic_Office.Tests\\WebAPI_Car_Mechanic_Office.Tests.csproj": {
+    "D:\\C# projects\\WebAPI_Car_Mechanic\\WebAPI_Car_Mechanic_Office.Tests\\WebAPI_Car_Mechanic_Office.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\C# projects\\WebAPI_Car_Mechanic\\WebAPI_Car_Mechanic_Office.Tests\\WebAPI_Car_Mechanic_Office.Tests.csproj",
+        "projectUniqueName": "D:\\C# projects\\WebAPI_Car_Mechanic\\WebAPI_Car_Mechanic_Office.Tests\\WebAPI_Car_Mechanic_Office.Tests.csproj",
         "projectName": "WebAPI_Car_Mechanic_Office.Tests",
-        "projectPath": "d:\\C# projects\\WebAPI_Car_Mechanic\\WebAPI_Car_Mechanic_Office.Tests\\WebAPI_Car_Mechanic_Office.Tests.csproj",
+        "projectPath": "D:\\C# projects\\WebAPI_Car_Mechanic\\WebAPI_Car_Mechanic_Office.Tests\\WebAPI_Car_Mechanic_Office.Tests.csproj",
         "packagesPath": "C:\\Users\\Vityu\\.nuget\\packages\\",
-        "outputPath": "d:\\C# projects\\WebAPI_Car_Mechanic\\WebAPI_Car_Mechanic_Office.Tests\\obj\\",
+        "outputPath": "D:\\C# projects\\WebAPI_Car_Mechanic\\WebAPI_Car_Mechanic_Office.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Vityu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -88,8 +88,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "d:\\C# projects\\WebAPI_Car_Mechanic\\WebAPI_Car_Mechanic_Common\\WebAPI_Car_Mechanic_Common.csproj": {
-                "projectPath": "d:\\C# projects\\WebAPI_Car_Mechanic\\WebAPI_Car_Mechanic_Common\\WebAPI_Car_Mechanic_Common.csproj"
+              "D:\\C# projects\\WebAPI_Car_Mechanic\\WebAPI_Car_Mechanic_Common\\WebAPI_Car_Mechanic_Common.csproj": {
+                "projectPath": "D:\\C# projects\\WebAPI_Car_Mechanic\\WebAPI_Car_Mechanic_Common\\WebAPI_Car_Mechanic_Common.csproj"
               }
             }
           }

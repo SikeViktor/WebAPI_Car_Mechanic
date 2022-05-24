@@ -25,3 +25,4 @@ d:\C# projects\WebAPI_Car_Mechanic\WebAPI_Car_Mechanic_Office\obj\Debug\net5.0-w
 d:\C# projects\WebAPI_Car_Mechanic\WebAPI_Car_Mechanic_Office\obj\Debug\net5.0-windows\ref\WebAPI_Car_Mechanic_Office.dll
 d:\C# projects\WebAPI_Car_Mechanic\WebAPI_Car_Mechanic_Office\obj\Debug\net5.0-windows\WebAPI_Car_Mechanic_Office.pdb
 d:\C# projects\WebAPI_Car_Mechanic\WebAPI_Car_Mechanic_Office\obj\Debug\net5.0-windows\WebAPI_Car_Mechanic_Office.genruntimeconfig.cache
+D:\C# projects\WebAPI_Car_Mechanic\WebAPI_Car_Mechanic_Office\obj\Debug\net5.0-windows\WebAPI_Car_Mechanic_Office.csproj.AssemblyReference.cache
