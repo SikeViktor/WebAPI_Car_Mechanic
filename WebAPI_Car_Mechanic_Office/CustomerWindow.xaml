@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WebAPI_Car_Mechanic_Office"
         mc:Ignorable="d"
-        Title="Munka adatai" Height="400" Width="400" ResizeMode="NoResize">
+        Title="Munka adatai" Height="400" Width="400" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
 
     <Window.Resources>
         <Style TargetType="Grid">
