@@ -5,7 +5,10 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WebAPI_Car_Mechanic_Workshop"
         mc:Ignorable="d"
-        Title="Műhely" Height="450" Width="800">
+        Title="Műhely" Height="450" Width="800" Icon="/villaskulcs.jpg"
+        WindowStartupLocation="CenterScreen"
+        
+    >
 
     <Window.Resources>
         <Style TargetType="Grid">

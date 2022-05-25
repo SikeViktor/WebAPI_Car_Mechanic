@@ -5,9 +5,13 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WebAPI_Car_Mechanic_Workshop"
         mc:Ignorable="d"
-        Title="Státusz frissítése" Height="450" Width="400" ResizeMode="NoResize">
+        Title="Státusz frissítése" Height="450" Width="400" ResizeMode="NoResize"
+        Icon="/villaskulcs.jpg" WindowStartupLocation="CenterScreen"        
+        >
 
     <Window.Resources>
+        
+
         <Style TargetType="Grid">
             <Setter Property="Background" Value="#1F2739"/>
         </Style>

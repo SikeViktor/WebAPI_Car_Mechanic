@@ -9,6 +9,8 @@
 
   <ItemGroup>
     <None Remove="logo.png" />
+    <None Remove="villaskulcs.jpg" />
+    <None Remove="villaskulcs.png" />
   </ItemGroup>
 
   <ItemGroup>
@@ -17,6 +19,7 @@
 
   <ItemGroup>
     <Resource Include="logo.png" />
+    <Resource Include="villaskulcs.jpg" />
   </ItemGroup>
 
 </Project>

@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "z/1K4607/3h7dwSxbGcfzTbK0Xyf1/FKOWhbitvsMIlcK+Y8Hkgbq0grhJKyC8BwbZdxXV1yW5qfnROMyTGHeA==",
+  "dgSpecHash": "GGe3M8VaO30ROk7Lw/nnfbGO5xjDyPd7kl9hmLc4JbpOKcGIzqGxgq8a+gnCAXbPGcO2OLvJJh+j+OiCfZ/r+w==",
   "success": true,
-  "projectFilePath": "D:\\C# projects\\WebAPI_Car_Mechanic\\WebAPI_Car_Mechanic_Common\\WebAPI_Car_Mechanic_Common.csproj",
+  "projectFilePath": "C:\\Users\\Sándor\\Documents\\GitHub\\WebAPI_Car_Mechanic\\WebAPI_Car_Mechanic_Common\\WebAPI_Car_Mechanic_Common.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Vityu\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+    "C:\\Users\\Sándor\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],
   "logs": []
 }
